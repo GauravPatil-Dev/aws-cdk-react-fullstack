@@ -10,6 +10,7 @@ This project is a blank template for AWS CDK development using TypeScript. It in
 - AWS CDK installed. If you haven't installed the AWS CDK, run `npm install -g aws-cdk`.
 
 ### Project Setup
+![alt text](architecture.png)
 
 1. **Clone the Repository**
 git clone git@github.com:GauravPatil-Dev/aws-cdk.git
