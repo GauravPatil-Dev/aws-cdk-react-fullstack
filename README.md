@@ -1,4 +1,4 @@
-# Welcome to Your CDK TypeScript Project
+# Welcome to AWS CDK TypeScript Project
 
 This project is a blank template for AWS CDK development using TypeScript. It includes Lambda functions for handling data uploads and interactions with Amazon DynamoDB and S3.
 
